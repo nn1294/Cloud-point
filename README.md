@@ -1,1 +1,3 @@
 # Cloud-point
+<p>
+"Cloud Point" is a user-friendly weather application designed to provide accurate and up-to-date weather information. With an intuitive interface, it offers users a convenient way to access weather forecasts, current conditions, and other meteorological data. Users can easily check the weather for their location or any specified city, obtaining details such as temperature, humidity, wind speed, precipitation, and forecasts for the upcoming days. Cloud Point aims to deliver a seamless and informative weather experience, keeping users informed and prepared for their day-to-day activities or travel plans.</p>
